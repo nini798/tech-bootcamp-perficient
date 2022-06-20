@@ -1,4 +1,4 @@
-package com.perficient.techbootcampnicholaschen;
+package com.perficient.techbootcampnicholaschen.sampleClasses;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

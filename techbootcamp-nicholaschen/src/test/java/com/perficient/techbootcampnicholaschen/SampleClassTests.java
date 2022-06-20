@@ -8,6 +8,9 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
 
+import com.perficient.techbootcampnicholaschen.sampleClasses.SampleClass;
+import com.perficient.techbootcampnicholaschen.sampleClasses.SampleObject;
+
 @ExtendWith(MockitoExtension.class)
 class SampleClassTests {
 
