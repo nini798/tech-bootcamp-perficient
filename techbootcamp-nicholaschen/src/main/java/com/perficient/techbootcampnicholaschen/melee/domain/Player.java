@@ -5,13 +5,15 @@ public class Player {
 	private Integer id;
 	private String name;
 	private String main;
+	private Integer ranking;
 	
 	public Player() {}
 	
-	public Player(int id, String name, String main) {
+	public Player(int id, String name, String main, int rank) {
 		this.id = id;
 		this.name = name;
 		this.main = main;
+		this.ranking = rank;
 	}
 
 	public Integer getId() {
@@ -36,6 +38,14 @@ public class Player {
 
 	public void setMain(String main) {
 		this.main = main;
+	}
+
+	public Integer getRanking() {
+		return ranking;
+	}
+
+	public void setRanking(Integer ranking) {
+		this.ranking = ranking;
 	}
 	
 }

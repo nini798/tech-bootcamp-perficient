@@ -15,12 +15,14 @@ public class PlayerEntity {
 	private int playerId;
 	private String name;
 	private String main;
+	private int ranking;
 	
 	public PlayerEntity() {}
 	
-	public PlayerEntity(String name, String main) {
+	public PlayerEntity(String name, String main, int ranking) {
 		this.setName(name);
 		this.setMain(main);
+		this.setRanking(ranking);
 	}
 
 	public int getPlayerId() {
@@ -45,6 +47,14 @@ public class PlayerEntity {
 
 	public void setMain(String main) {
 		this.main = main;
+	}
+
+	public int getRanking() {
+		return ranking;
+	}
+
+	public void setRanking(int ranking) {
+		this.ranking = ranking;
 	}
 	
 	

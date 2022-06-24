@@ -1,0 +1,212 @@
+14:17:25.781 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration boolean -> org.hibernate.type.BooleanType@7d59e968
+14:17:25.782 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration boolean -> org.hibernate.type.BooleanType@7d59e968
+14:17:25.782 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Boolean -> org.hibernate.type.BooleanType@7d59e968
+14:17:25.782 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration numeric_boolean -> org.hibernate.type.NumericBooleanType@3820cfe
+14:17:25.783 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration true_false -> org.hibernate.type.TrueFalseType@3b4ef59f
+14:17:25.783 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration yes_no -> org.hibernate.type.YesNoType@10d18696
+14:17:25.784 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration byte -> org.hibernate.type.ByteType@6750e381
+14:17:25.784 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration byte -> org.hibernate.type.ByteType@6750e381
+14:17:25.784 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Byte -> org.hibernate.type.ByteType@6750e381
+14:17:25.784 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration character -> org.hibernate.type.CharacterType@29bbc391
+14:17:25.784 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration char -> org.hibernate.type.CharacterType@29bbc391
+14:17:25.784 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Character -> org.hibernate.type.CharacterType@29bbc391
+14:17:25.785 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration short -> org.hibernate.type.ShortType@21b51e59
+14:17:25.785 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration short -> org.hibernate.type.ShortType@21b51e59
+14:17:25.785 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Short -> org.hibernate.type.ShortType@21b51e59
+14:17:25.785 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration integer -> org.hibernate.type.IntegerType@4fea840f
+14:17:25.785 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration int -> org.hibernate.type.IntegerType@4fea840f
+14:17:25.785 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Integer -> org.hibernate.type.IntegerType@4fea840f
+14:17:25.786 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration long -> org.hibernate.type.LongType@3457cc8d
+14:17:25.786 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration long -> org.hibernate.type.LongType@3457cc8d
+14:17:25.786 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Long -> org.hibernate.type.LongType@3457cc8d
+14:17:25.786 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration float -> org.hibernate.type.FloatType@682e422c
+14:17:25.786 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration float -> org.hibernate.type.FloatType@682e422c
+14:17:25.786 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Float -> org.hibernate.type.FloatType@682e422c
+14:17:25.787 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration double -> org.hibernate.type.DoubleType@5b48f0f4
+14:17:25.787 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration double -> org.hibernate.type.DoubleType@5b48f0f4
+14:17:25.787 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Double -> org.hibernate.type.DoubleType@5b48f0f4
+14:17:25.787 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration big_decimal -> org.hibernate.type.BigDecimalType@62f9c790
+14:17:25.787 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.math.BigDecimal -> org.hibernate.type.BigDecimalType@62f9c790
+14:17:25.787 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration big_integer -> org.hibernate.type.BigIntegerType@7a606260
+14:17:25.787 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.math.BigInteger -> org.hibernate.type.BigIntegerType@7a606260
+14:17:25.788 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration string -> org.hibernate.type.StringType@143fefaf
+14:17:25.788 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.String -> org.hibernate.type.StringType@143fefaf
+14:17:25.788 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration nstring -> org.hibernate.type.StringNVarcharType@34a6d9db
+14:17:25.788 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration ncharacter -> org.hibernate.type.CharacterNCharType@5012c571
+14:17:25.789 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration url -> org.hibernate.type.UrlType@28b523a
+14:17:25.789 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.net.URL -> org.hibernate.type.UrlType@28b523a
+14:17:25.789 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration Duration -> org.hibernate.type.DurationType@238291d4
+14:17:25.789 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.time.Duration -> org.hibernate.type.DurationType@238291d4
+14:17:25.789 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration Instant -> org.hibernate.type.InstantType@72a8361b
+14:17:25.790 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.time.Instant -> org.hibernate.type.InstantType@72a8361b
+14:17:25.790 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration LocalDateTime -> org.hibernate.type.LocalDateTimeType@39d77de9
+14:17:25.790 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.time.LocalDateTime -> org.hibernate.type.LocalDateTimeType@39d77de9
+14:17:25.790 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration LocalDate -> org.hibernate.type.LocalDateType@29bbc63c
+14:17:25.790 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.time.LocalDate -> org.hibernate.type.LocalDateType@29bbc63c
+14:17:25.791 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration LocalTime -> org.hibernate.type.LocalTimeType@2c48cede
+14:17:25.791 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.time.LocalTime -> org.hibernate.type.LocalTimeType@2c48cede
+14:17:25.791 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@6ad6443
+14:17:25.791 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.time.OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@6ad6443
+14:17:25.792 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration OffsetTime -> org.hibernate.type.OffsetTimeType@175c5c3a
+14:17:25.792 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.time.OffsetTime -> org.hibernate.type.OffsetTimeType@175c5c3a
+14:17:25.792 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@55296b50
+14:17:25.792 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.time.ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@55296b50
+14:17:25.793 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration date -> org.hibernate.type.DateType@2484dbb7
+14:17:25.793 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Date -> org.hibernate.type.DateType@2484dbb7
+14:17:25.794 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration time -> org.hibernate.type.TimeType@14d8e132
+14:17:25.794 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Time -> org.hibernate.type.TimeType@14d8e132
+14:17:25.794 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration timestamp -> org.hibernate.type.TimestampType@2e952845
+14:17:25.794 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Timestamp -> org.hibernate.type.TimestampType@2e952845
+14:17:25.794 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Date -> org.hibernate.type.TimestampType@2e952845
+14:17:25.795 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration dbtimestamp -> org.hibernate.type.DbTimestampType@57cabdc3
+14:17:25.796 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration calendar -> org.hibernate.type.CalendarType@cbf1997
+14:17:25.796 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Calendar -> org.hibernate.type.CalendarType@cbf1997
+14:17:25.796 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.GregorianCalendar -> org.hibernate.type.CalendarType@cbf1997
+14:17:25.796 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration calendar_date -> org.hibernate.type.CalendarDateType@7781263c
+14:17:25.797 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration calendar_time -> org.hibernate.type.CalendarTimeType@37d3e140
+14:17:25.797 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration locale -> org.hibernate.type.LocaleType@1291aab5
+14:17:25.797 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Locale -> org.hibernate.type.LocaleType@1291aab5
+14:17:25.798 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration currency -> org.hibernate.type.CurrencyType@325162e9
+14:17:25.798 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Currency -> org.hibernate.type.CurrencyType@325162e9
+14:17:25.798 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration timezone -> org.hibernate.type.TimeZoneType@545d2560
+14:17:25.798 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.TimeZone -> org.hibernate.type.TimeZoneType@545d2560
+14:17:25.799 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration class -> org.hibernate.type.ClassType@16681017
+14:17:25.799 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Class -> org.hibernate.type.ClassType@16681017
+14:17:25.799 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration uuid-binary -> org.hibernate.type.UUIDBinaryType@3079c26a
+14:17:25.799 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.UUID -> org.hibernate.type.UUIDBinaryType@3079c26a
+14:17:25.799 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration uuid-char -> org.hibernate.type.UUIDCharType@565d7d2f
+14:17:25.800 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration binary -> org.hibernate.type.BinaryType@477523ba
+14:17:25.800 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration byte[] -> org.hibernate.type.BinaryType@477523ba
+14:17:25.800 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration [B -> org.hibernate.type.BinaryType@477523ba
+14:17:25.800 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration wrapper-binary -> org.hibernate.type.WrapperBinaryType@561f9d92
+14:17:25.800 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration Byte[] -> org.hibernate.type.WrapperBinaryType@561f9d92
+14:17:25.800 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration [Ljava.lang.Byte; -> org.hibernate.type.WrapperBinaryType@561f9d92
+14:17:25.801 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration row_version -> org.hibernate.type.RowVersionType@34c76167
+14:17:25.801 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration image -> org.hibernate.type.ImageType@6e95973c
+14:17:25.801 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration characters -> org.hibernate.type.CharArrayType@27e199ce
+14:17:25.801 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration char[] -> org.hibernate.type.CharArrayType@27e199ce
+14:17:25.801 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration [C -> org.hibernate.type.CharArrayType@27e199ce
+14:17:25.802 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration wrapper-characters -> org.hibernate.type.CharacterArrayType@5e193ef5
+14:17:25.802 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration [Ljava.lang.Character; -> org.hibernate.type.CharacterArrayType@5e193ef5
+14:17:25.802 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration Character[] -> org.hibernate.type.CharacterArrayType@5e193ef5
+14:17:25.802 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration text -> org.hibernate.type.TextType@61da0413
+14:17:25.802 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration ntext -> org.hibernate.type.NTextType@115c946b
+14:17:25.802 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration blob -> org.hibernate.type.BlobType@58a7dc4
+14:17:25.803 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Blob -> org.hibernate.type.BlobType@58a7dc4
+14:17:25.803 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration materialized_blob -> org.hibernate.type.MaterializedBlobType@6238d5e0
+14:17:25.803 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration clob -> org.hibernate.type.ClobType@3f048c86
+14:17:25.803 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Clob -> org.hibernate.type.ClobType@3f048c86
+14:17:25.804 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration nclob -> org.hibernate.type.NClobType@d25e878
+14:17:25.804 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.NClob -> org.hibernate.type.NClobType@d25e878
+14:17:25.804 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration materialized_clob -> org.hibernate.type.MaterializedClobType@53ea380b
+14:17:25.804 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration materialized_nclob -> org.hibernate.type.MaterializedNClobType@241b971f
+14:17:25.805 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration serializable -> org.hibernate.type.SerializableType@4f3c7808
+14:17:25.806 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration object -> org.hibernate.type.ObjectType@251a90ce
+14:17:25.806 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Object -> org.hibernate.type.ObjectType@251a90ce
+14:17:25.806 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration imm_date -> org.hibernate.type.AdaptedImmutableType@6f3bd37f
+14:17:25.806 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration imm_time -> org.hibernate.type.AdaptedImmutableType@403364e9
+14:17:25.806 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration imm_timestamp -> org.hibernate.type.AdaptedImmutableType@447521e
+14:17:25.806 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration imm_dbtimestamp -> org.hibernate.type.AdaptedImmutableType@2fde9469
+14:17:25.807 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration imm_calendar -> org.hibernate.type.AdaptedImmutableType@1ecf0ac6
+14:17:25.807 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration imm_calendar_date -> org.hibernate.type.AdaptedImmutableType@458031da
+14:17:25.807 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration imm_binary -> org.hibernate.type.AdaptedImmutableType@7be94cd6
+14:17:25.807 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration imm_serializable -> org.hibernate.type.AdaptedImmutableType@20cff21e
+14:17:26.079 [main] DEBUG o.h.type.spi.TypeConfiguration$Scope - Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@26463a6] to MetadataBuildingContext [org.hibernate.boot.internal.MetadataBuildingContextRootImpl@6c5ae8fd]
+14:17:26.223 [main] DEBUG o.h.type.spi.TypeConfiguration$Scope - Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@26463a6] to SessionFactoryImpl [org.hibernate.internal.SessionFactoryImpl@2430cf17]
+14:17:26.435 [main] DEBUG org.hibernate.SQL - alter table player drop foreign key FKdvd6ljes11r44igawmpm1mc5s
+14:17:26.451 [main] DEBUG org.hibernate.SQL - drop table if exists play_seq
+14:17:26.457 [main] DEBUG org.hibernate.SQL - drop table if exists player
+14:17:26.460 [main] DEBUG org.hibernate.SQL - drop table if exists team
+14:17:26.462 [main] DEBUG org.hibernate.SQL - drop table if exists team_seq
+14:17:26.466 [main] DEBUG org.hibernate.SQL - create table play_seq (next_val bigint) engine=InnoDB
+14:17:26.502 [main] DEBUG org.hibernate.SQL - insert into play_seq values ( 1 )
+14:17:26.509 [main] DEBUG org.hibernate.SQL - create table player (id integer not null, main varchar(255), name varchar(255), team_id integer, primary key (id)) engine=InnoDB
+14:17:26.532 [main] DEBUG org.hibernate.SQL - create table team (id integer not null, initials varchar(255), logo varchar(255), name varchar(255), primary key (id)) engine=InnoDB
+14:17:26.554 [main] DEBUG org.hibernate.SQL - create table team_seq (next_val bigint) engine=InnoDB
+14:17:26.575 [main] DEBUG org.hibernate.SQL - insert into team_seq values ( 1 )
+14:17:26.580 [main] DEBUG org.hibernate.SQL - alter table player add constraint FKdvd6ljes11r44igawmpm1mc5s foreign key (team_id) references team (id)
+14:17:26.645 [main] TRACE o.h.type.spi.TypeConfiguration$Scope - Handling #sessionFactoryCreated from [org.hibernate.internal.SessionFactoryImpl@2430cf17] for TypeConfiguration
+14:17:26.801 [main] DEBUG org.hibernate.SQL - select playerenti0_.id as id1_0_0_, playerenti0_.main as main2_0_0_, playerenti0_.name as name3_0_0_ from player playerenti0_ where playerenti0_.id=?
+14:17:26.808 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [1]
+14:17:26.819 [main] DEBUG org.hibernate.SQL - select playerenti0_.id as id1_0_0_, playerenti0_.main as main2_0_0_, playerenti0_.name as name3_0_0_ from player playerenti0_ where playerenti0_.id=?
+14:17:26.819 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [2]
+14:17:26.821 [main] DEBUG org.hibernate.SQL - select playerenti0_.id as id1_0_0_, playerenti0_.main as main2_0_0_, playerenti0_.name as name3_0_0_ from player playerenti0_ where playerenti0_.id=?
+14:17:26.821 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [3]
+14:17:26.829 [main] DEBUG org.hibernate.SQL - select next_val as id_val from team_seq for update
+14:17:26.830 [main] DEBUG org.hibernate.SQL - update team_seq set next_val= ? where next_val=?
+14:17:26.847 [main] DEBUG org.hibernate.SQL - select next_val as id_val from play_seq for update
+14:17:26.848 [main] DEBUG org.hibernate.SQL - update play_seq set next_val= ? where next_val=?
+14:17:26.854 [main] DEBUG org.hibernate.SQL - select next_val as id_val from play_seq for update
+14:17:26.854 [main] DEBUG org.hibernate.SQL - update play_seq set next_val= ? where next_val=?
+14:17:26.864 [main] DEBUG org.hibernate.SQL - insert into team (initials, logo, name, id) values (?, ?, ?, ?)
+14:17:26.864 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [PG]
+14:17:26.864 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [https://ssb.wiki.gallery/images/thumb/3/37/PandaHD.png/1200px-PandaHD.png]
+14:17:26.864 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [VARCHAR] - [Panda Global]
+14:17:26.864 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [4] as [INTEGER] - [1]
+14:17:26.866 [main] DEBUG org.hibernate.SQL - insert into player (main, name, id) values (?, ?, ?)
+14:17:26.866 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [Sheik]
+14:17:26.866 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [Plup]
+14:17:26.866 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [INTEGER] - [1]
+14:17:26.867 [main] DEBUG org.hibernate.SQL - insert into player (main, name, id) values (?, ?, ?)
+14:17:26.867 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [Samus]
+14:17:26.867 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [Esam]
+14:17:26.867 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [INTEGER] - [2]
+14:17:26.867 [main] DEBUG org.hibernate.SQL - insert into player (main, name, id) values (?, ?, ?)
+14:17:26.867 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [Fox]
+14:17:26.867 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [IBDW]
+14:17:26.867 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [INTEGER] - [3]
+14:17:26.868 [main] DEBUG org.hibernate.SQL - update player set team_id=? where id=?
+14:17:26.868 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [1]
+14:17:26.868 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [INTEGER] - [1]
+14:17:26.869 [main] DEBUG org.hibernate.SQL - update player set team_id=? where id=?
+14:17:26.869 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [1]
+14:17:26.869 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [INTEGER] - [2]
+14:17:26.869 [main] DEBUG org.hibernate.SQL - update player set team_id=? where id=?
+14:17:26.869 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [1]
+14:17:26.869 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [INTEGER] - [3]
+14:17:26.875 [main] DEBUG org.hibernate.SQL - select playerenti0_.id as id1_0_0_, playerenti0_.main as main2_0_0_, playerenti0_.name as name3_0_0_ from player playerenti0_ where playerenti0_.id=?
+14:17:26.876 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [4]
+14:17:26.877 [main] DEBUG org.hibernate.SQL - select playerenti0_.id as id1_0_0_, playerenti0_.main as main2_0_0_, playerenti0_.name as name3_0_0_ from player playerenti0_ where playerenti0_.id=?
+14:17:26.877 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [5]
+14:17:26.878 [main] DEBUG org.hibernate.SQL - select playerenti0_.id as id1_0_0_, playerenti0_.main as main2_0_0_, playerenti0_.name as name3_0_0_ from player playerenti0_ where playerenti0_.id=?
+14:17:26.878 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [6]
+14:17:26.879 [main] DEBUG org.hibernate.SQL - select next_val as id_val from team_seq for update
+14:17:26.879 [main] DEBUG org.hibernate.SQL - update team_seq set next_val= ? where next_val=?
+14:17:26.884 [main] DEBUG org.hibernate.SQL - insert into team (initials, logo, name, id) values (?, ?, ?, ?)
+14:17:26.884 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [GG]
+14:17:26.884 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Goldenguardians_logo.svg/1200px-Goldenguardians_logo.svg.png]
+14:17:26.884 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [VARCHAR] - [Golden Guardian]
+14:17:26.884 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [4] as [INTEGER] - [2]
+14:17:26.885 [main] DEBUG org.hibernate.SQL - insert into player (main, name, id) values (?, ?, ?)
+14:17:26.885 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [Marth]
+14:17:26.885 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [Zain]
+14:17:26.885 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [INTEGER] - [4]
+14:17:26.885 [main] DEBUG org.hibernate.SQL - insert into player (main, name, id) values (?, ?, ?)
+14:17:26.885 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [Marth, Falco]
+14:17:26.885 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [PPMD]
+14:17:26.885 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [INTEGER] - [5]
+14:17:26.886 [main] DEBUG org.hibernate.SQL - insert into player (main, name, id) values (?, ?, ?)
+14:17:26.886 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [Captain Falcon]
+14:17:26.886 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [n0ne]
+14:17:26.886 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [INTEGER] - [6]
+14:17:26.886 [main] DEBUG org.hibernate.SQL - update player set team_id=? where id=?
+14:17:26.886 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [2]
+14:17:26.886 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [INTEGER] - [4]
+14:17:26.886 [main] DEBUG org.hibernate.SQL - update player set team_id=? where id=?
+14:17:26.887 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [2]
+14:17:26.887 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [INTEGER] - [5]
+14:17:26.887 [main] DEBUG org.hibernate.SQL - update player set team_id=? where id=?
+14:17:26.887 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [2]
+14:17:26.887 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [INTEGER] - [6]
+14:17:26.892 [main] DEBUG org.hibernate.SQL - insert into team (initials, logo, name, id) values (?, ?, ?, ?)
+14:17:26.892 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [TSM]
+14:17:26.892 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/02/TSMlogo_profile.png/revision/latest?cb=20200118045958]
+14:17:26.892 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [VARCHAR] - [Team SoloMid]
+14:17:26.892 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [4] as [INTEGER] - [3]
+14:19:53.654 [RMI TCP Connection(6)-127.0.0.1] DEBUG org.hibernate.SQL - alter table player drop foreign key FKdvd6ljes11r44igawmpm1mc5s
+14:19:53.664 [RMI TCP Connection(6)-127.0.0.1] DEBUG org.hibernate.SQL - drop table if exists play_seq
+14:19:53.678 [RMI TCP Connection(6)-127.0.0.1] DEBUG org.hibernate.SQL - drop table if exists player
+14:19:53.692 [RMI TCP Connection(6)-127.0.0.1] DEBUG org.hibernate.SQL - drop table if exists team
+14:19:53.707 [RMI TCP Connection(6)-127.0.0.1] DEBUG org.hibernate.SQL - drop table if exists team_seq
+14:19:53.722 [RMI TCP Connection(6)-127.0.0.1] TRACE o.h.type.spi.TypeConfiguration$Scope - Handling #sessionFactoryClosed from [org.hibernate.internal.SessionFactoryImpl@2430cf17] for TypeConfiguration
+14:19:53.722 [RMI TCP Connection(6)-127.0.0.1] DEBUG o.h.type.spi.TypeConfiguration$Scope - Un-scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration$Scope@5efa1306] from SessionFactory [org.hibernate.internal.SessionFactoryImpl@2430cf17]

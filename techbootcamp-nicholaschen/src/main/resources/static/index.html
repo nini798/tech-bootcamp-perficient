@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Melee Esports</title>
+	
+	<link href="style.css" rel="stylesheet"/>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	<script type="text/javascript" src="app.js"></script>
+</head>
+
+<body>
+
+	<div id="backdrop"></div>
+
+	<div id="getArea">
+		<div id="teamCardArea">
+			<h1 id="test">Team Selection</h1>
+		</div>
+		<hr>
+		<h1 id="playerTitle"></h1>
+		<div id="playerCardArea"></div>
+	</div>
+	
+	<div id="postArea">
+		<form id="newTeamForm">
+			<label for="newName">Name:</label><br/>
+			<input type="text" id="newName" name="name"/><br/>
+			<label for="newInitials">Initials:</label><br/>
+			<input type="text" id="newInitials" name="initials"/><br/>
+			<label for="newLogo">Logo (image link):</label><br/>
+			<input type="text" id="newLogo" name="logo"/><br/>
+			<input type="submit" id="submitButton" /><br/>
+			<input type="button" id="cancelButton" value="Cancel"/>
+		</form>
+	</div>
+
+</body>
+
+</html>

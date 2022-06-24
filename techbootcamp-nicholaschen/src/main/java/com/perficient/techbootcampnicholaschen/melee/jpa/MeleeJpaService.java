@@ -69,10 +69,10 @@ public class MeleeJpaService {
 					if (existingPlayer.isPresent()) {
 						players.add(existingPlayer.get());
 					} else {
-						players.add(new PlayerEntity(player.getName(), player.getMain()));
+						players.add(new PlayerEntity(player.getName(), player.getMain(), player.getRanking()));
 					}
 				} else {
-					players.add(new PlayerEntity(player.getName(), player.getMain()));
+					players.add(new PlayerEntity(player.getName(), player.getMain(), player.getRanking()));
 				}
 			});
 		}
@@ -89,7 +89,7 @@ public class MeleeJpaService {
     }
 	
 	private Player map(PlayerEntity pe) {
-		return new Player(pe.getPlayerId(), pe.getName(), pe.getMain());
+		return new Player(pe.getPlayerId(), pe.getName(), pe.getMain(), pe.getRanking());
 	}
 	
 }

@@ -1,0 +1,450 @@
+08:59:59.373 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration boolean -> org.hibernate.type.BooleanType@51888019
+08:59:59.375 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration boolean -> org.hibernate.type.BooleanType@51888019
+08:59:59.375 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Boolean -> org.hibernate.type.BooleanType@51888019
+08:59:59.375 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration numeric_boolean -> org.hibernate.type.NumericBooleanType@b022551
+08:59:59.375 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration true_false -> org.hibernate.type.TrueFalseType@31ab1e67
+08:59:59.376 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration yes_no -> org.hibernate.type.YesNoType@3a3f96ab
+08:59:59.376 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration byte -> org.hibernate.type.ByteType@4f664bee
+08:59:59.376 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration byte -> org.hibernate.type.ByteType@4f664bee
+08:59:59.376 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Byte -> org.hibernate.type.ByteType@4f664bee
+08:59:59.377 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration character -> org.hibernate.type.CharacterType@1b8aaeab
+08:59:59.377 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration char -> org.hibernate.type.CharacterType@1b8aaeab
+08:59:59.377 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Character -> org.hibernate.type.CharacterType@1b8aaeab
+08:59:59.377 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration short -> org.hibernate.type.ShortType@d87d449
+08:59:59.377 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration short -> org.hibernate.type.ShortType@d87d449
+08:59:59.377 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Short -> org.hibernate.type.ShortType@d87d449
+08:59:59.378 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration integer -> org.hibernate.type.IntegerType@686cf8ad
+08:59:59.378 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration int -> org.hibernate.type.IntegerType@686cf8ad
+08:59:59.378 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Integer -> org.hibernate.type.IntegerType@686cf8ad
+08:59:59.378 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration long -> org.hibernate.type.LongType@3bbf1c0d
+08:59:59.378 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration long -> org.hibernate.type.LongType@3bbf1c0d
+08:59:59.378 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Long -> org.hibernate.type.LongType@3bbf1c0d
+08:59:59.379 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration float -> org.hibernate.type.FloatType@656842bc
+08:59:59.379 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration float -> org.hibernate.type.FloatType@656842bc
+08:59:59.379 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Float -> org.hibernate.type.FloatType@656842bc
+08:59:59.379 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration double -> org.hibernate.type.DoubleType@2055833f
+08:59:59.380 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration double -> org.hibernate.type.DoubleType@2055833f
+08:59:59.380 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Double -> org.hibernate.type.DoubleType@2055833f
+08:59:59.380 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration big_decimal -> org.hibernate.type.BigDecimalType@34a6d9db
+08:59:59.380 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.math.BigDecimal -> org.hibernate.type.BigDecimalType@34a6d9db
+08:59:59.380 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration big_integer -> org.hibernate.type.BigIntegerType@4645679e
+08:59:59.380 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.math.BigInteger -> org.hibernate.type.BigIntegerType@4645679e
+08:59:59.381 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration string -> org.hibernate.type.StringType@71d55b7e
+08:59:59.381 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.String -> org.hibernate.type.StringType@71d55b7e
+08:59:59.381 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration nstring -> org.hibernate.type.StringNVarcharType@238291d4
+08:59:59.381 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration ncharacter -> org.hibernate.type.CharacterNCharType@1eeb5818
+08:59:59.381 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration url -> org.hibernate.type.UrlType@4652c74d
+08:59:59.381 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.net.URL -> org.hibernate.type.UrlType@4652c74d
+08:59:59.382 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration Duration -> org.hibernate.type.DurationType@785ed99c
+08:59:59.382 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.time.Duration -> org.hibernate.type.DurationType@785ed99c
+08:59:59.382 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration Instant -> org.hibernate.type.InstantType@743c3520
+08:59:59.382 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.time.Instant -> org.hibernate.type.InstantType@743c3520
+08:59:59.383 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration LocalDateTime -> org.hibernate.type.LocalDateTimeType@68e2d03e
+08:59:59.383 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.time.LocalDateTime -> org.hibernate.type.LocalDateTimeType@68e2d03e
+08:59:59.383 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration LocalDate -> org.hibernate.type.LocalDateType@3a788fe0
+08:59:59.383 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.time.LocalDate -> org.hibernate.type.LocalDateType@3a788fe0
+08:59:59.384 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration LocalTime -> org.hibernate.type.LocalTimeType@3cb6e0ee
+08:59:59.384 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.time.LocalTime -> org.hibernate.type.LocalTimeType@3cb6e0ee
+08:59:59.384 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@231df705
+08:59:59.384 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.time.OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@231df705
+08:59:59.385 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration OffsetTime -> org.hibernate.type.OffsetTimeType@3009eed7
+08:59:59.385 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.time.OffsetTime -> org.hibernate.type.OffsetTimeType@3009eed7
+08:59:59.386 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@58a3d521
+08:59:59.386 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.time.ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@58a3d521
+08:59:59.386 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration date -> org.hibernate.type.DateType@6fbf5db2
+08:59:59.387 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Date -> org.hibernate.type.DateType@6fbf5db2
+08:59:59.387 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration time -> org.hibernate.type.TimeType@3ab595c8
+08:59:59.387 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Time -> org.hibernate.type.TimeType@3ab595c8
+08:59:59.388 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration timestamp -> org.hibernate.type.TimestampType@5fdd97c1
+08:59:59.388 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Timestamp -> org.hibernate.type.TimestampType@5fdd97c1
+08:59:59.388 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Date -> org.hibernate.type.TimestampType@5fdd97c1
+08:59:59.389 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration dbtimestamp -> org.hibernate.type.DbTimestampType@584ca390
+08:59:59.389 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration calendar -> org.hibernate.type.CalendarType@5ca4dce5
+08:59:59.389 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Calendar -> org.hibernate.type.CalendarType@5ca4dce5
+08:59:59.389 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.GregorianCalendar -> org.hibernate.type.CalendarType@5ca4dce5
+08:59:59.390 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration calendar_date -> org.hibernate.type.CalendarDateType@6169be09
+08:59:59.390 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration calendar_time -> org.hibernate.type.CalendarTimeType@49c1e294
+08:59:59.391 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration locale -> org.hibernate.type.LocaleType@2d4a3e13
+08:59:59.391 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Locale -> org.hibernate.type.LocaleType@2d4a3e13
+08:59:59.391 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration currency -> org.hibernate.type.CurrencyType@2d206a71
+08:59:59.391 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Currency -> org.hibernate.type.CurrencyType@2d206a71
+08:59:59.392 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration timezone -> org.hibernate.type.TimeZoneType@565d7d2f
+08:59:59.392 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.TimeZone -> org.hibernate.type.TimeZoneType@565d7d2f
+08:59:59.392 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration class -> org.hibernate.type.ClassType@42a0786f
+08:59:59.392 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Class -> org.hibernate.type.ClassType@42a0786f
+08:59:59.392 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration uuid-binary -> org.hibernate.type.UUIDBinaryType@46bb0bdf
+08:59:59.392 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.UUID -> org.hibernate.type.UUIDBinaryType@46bb0bdf
+08:59:59.393 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration uuid-char -> org.hibernate.type.UUIDCharType@629075f4
+08:59:59.393 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration binary -> org.hibernate.type.BinaryType@6e95973c
+08:59:59.393 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration byte[] -> org.hibernate.type.BinaryType@6e95973c
+08:59:59.393 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration [B -> org.hibernate.type.BinaryType@6e95973c
+08:59:59.394 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration wrapper-binary -> org.hibernate.type.WrapperBinaryType@27e199ce
+08:59:59.394 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration Byte[] -> org.hibernate.type.WrapperBinaryType@27e199ce
+08:59:59.394 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration [Ljava.lang.Byte; -> org.hibernate.type.WrapperBinaryType@27e199ce
+08:59:59.394 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration row_version -> org.hibernate.type.RowVersionType@5e193ef5
+08:59:59.394 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration image -> org.hibernate.type.ImageType@61da0413
+08:59:59.395 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration characters -> org.hibernate.type.CharArrayType@4bc9ca97
+08:59:59.395 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration char[] -> org.hibernate.type.CharArrayType@4bc9ca97
+08:59:59.395 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration [C -> org.hibernate.type.CharArrayType@4bc9ca97
+08:59:59.395 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration wrapper-characters -> org.hibernate.type.CharacterArrayType@58a7dc4
+08:59:59.395 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration [Ljava.lang.Character; -> org.hibernate.type.CharacterArrayType@58a7dc4
+08:59:59.395 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration Character[] -> org.hibernate.type.CharacterArrayType@58a7dc4
+08:59:59.395 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration text -> org.hibernate.type.TextType@6238d5e0
+08:59:59.396 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration ntext -> org.hibernate.type.NTextType@6b063470
+08:59:59.396 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration blob -> org.hibernate.type.BlobType@6562cc23
+08:59:59.396 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Blob -> org.hibernate.type.BlobType@6562cc23
+08:59:59.397 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration materialized_blob -> org.hibernate.type.MaterializedBlobType@7d484fcd
+08:59:59.397 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration clob -> org.hibernate.type.ClobType@241b971f
+08:59:59.397 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Clob -> org.hibernate.type.ClobType@241b971f
+08:59:59.398 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration nclob -> org.hibernate.type.NClobType@4f3c7808
+08:59:59.398 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.NClob -> org.hibernate.type.NClobType@4f3c7808
+08:59:59.398 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration materialized_clob -> org.hibernate.type.MaterializedClobType@935493d
+08:59:59.398 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration materialized_nclob -> org.hibernate.type.MaterializedNClobType@1eb85a47
+08:59:59.399 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration serializable -> org.hibernate.type.SerializableType@482f7af0
+08:59:59.401 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration object -> org.hibernate.type.ObjectType@6af87130
+08:59:59.401 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Object -> org.hibernate.type.ObjectType@6af87130
+08:59:59.401 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration imm_date -> org.hibernate.type.AdaptedImmutableType@3711c71c
+08:59:59.401 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration imm_time -> org.hibernate.type.AdaptedImmutableType@33e3bd2e
+08:59:59.401 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration imm_timestamp -> org.hibernate.type.AdaptedImmutableType@646d810b
+08:59:59.401 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration imm_dbtimestamp -> org.hibernate.type.AdaptedImmutableType@30508066
+08:59:59.401 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration imm_calendar -> org.hibernate.type.AdaptedImmutableType@9408857
+08:59:59.401 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration imm_calendar_date -> org.hibernate.type.AdaptedImmutableType@27e44e9c
+08:59:59.401 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration imm_binary -> org.hibernate.type.AdaptedImmutableType@2f09e6b2
+08:59:59.401 [main] DEBUG org.hibernate.type.BasicTypeRegistry - Adding type registration imm_serializable -> org.hibernate.type.AdaptedImmutableType@1bee0085
+08:59:59.680 [main] DEBUG o.h.type.spi.TypeConfiguration$Scope - Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@2d9de284] to MetadataBuildingContext [org.hibernate.boot.internal.MetadataBuildingContextRootImpl@4b5798c2]
+08:59:59.829 [main] DEBUG o.h.type.spi.TypeConfiguration$Scope - Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@2d9de284] to SessionFactoryImpl [org.hibernate.internal.SessionFactoryImpl@3f64d943]
+09:00:00.052 [main] DEBUG org.hibernate.SQL - alter table player drop foreign key FKdvd6ljes11r44igawmpm1mc5s
+09:00:00.065 [main] DEBUG org.hibernate.SQL - drop table if exists play_seq
+09:00:00.070 [main] DEBUG org.hibernate.SQL - drop table if exists player
+09:00:00.073 [main] DEBUG org.hibernate.SQL - drop table if exists team
+09:00:00.075 [main] DEBUG org.hibernate.SQL - drop table if exists team_seq
+09:00:00.078 [main] DEBUG org.hibernate.SQL - create table play_seq (next_val bigint) engine=InnoDB
+09:00:00.102 [main] DEBUG org.hibernate.SQL - insert into play_seq values ( 1 )
+09:00:00.106 [main] DEBUG org.hibernate.SQL - create table player (id integer not null, main varchar(255), name varchar(255), ranking integer not null, team_id integer, primary key (id)) engine=InnoDB
+09:00:00.137 [main] DEBUG org.hibernate.SQL - create table team (id integer not null, initials varchar(255), logo varchar(255), name varchar(255), primary key (id)) engine=InnoDB
+09:00:00.180 [main] DEBUG org.hibernate.SQL - create table team_seq (next_val bigint) engine=InnoDB
+09:00:00.204 [main] DEBUG org.hibernate.SQL - insert into team_seq values ( 1 )
+09:00:00.209 [main] DEBUG org.hibernate.SQL - alter table player add constraint FKdvd6ljes11r44igawmpm1mc5s foreign key (team_id) references team (id)
+09:00:00.273 [main] TRACE o.h.type.spi.TypeConfiguration$Scope - Handling #sessionFactoryCreated from [org.hibernate.internal.SessionFactoryImpl@3f64d943] for TypeConfiguration
+09:00:00.450 [main] DEBUG org.hibernate.SQL - select playerenti0_.id as id1_0_0_, playerenti0_.main as main2_0_0_, playerenti0_.name as name3_0_0_, playerenti0_.ranking as ranking4_0_0_ from player playerenti0_ where playerenti0_.id=?
+09:00:00.456 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [1]
+09:00:00.465 [main] DEBUG org.hibernate.SQL - select playerenti0_.id as id1_0_0_, playerenti0_.main as main2_0_0_, playerenti0_.name as name3_0_0_, playerenti0_.ranking as ranking4_0_0_ from player playerenti0_ where playerenti0_.id=?
+09:00:00.466 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [2]
+09:00:00.472 [main] DEBUG org.hibernate.SQL - select next_val as id_val from team_seq for update
+09:00:00.473 [main] DEBUG org.hibernate.SQL - update team_seq set next_val= ? where next_val=?
+09:00:00.489 [main] DEBUG org.hibernate.SQL - select next_val as id_val from play_seq for update
+09:00:00.489 [main] DEBUG org.hibernate.SQL - update play_seq set next_val= ? where next_val=?
+09:00:00.494 [main] DEBUG org.hibernate.SQL - select next_val as id_val from play_seq for update
+09:00:00.494 [main] DEBUG org.hibernate.SQL - update play_seq set next_val= ? where next_val=?
+09:00:00.507 [main] DEBUG org.hibernate.SQL - insert into team (initials, logo, name, id) values (?, ?, ?, ?)
+09:00:00.508 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [PG]
+09:00:00.508 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [https://ssb.wiki.gallery/images/thumb/3/37/PandaHD.png/1200px-PandaHD.png]
+09:00:00.508 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [VARCHAR] - [Panda Global]
+09:00:00.508 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [4] as [INTEGER] - [1]
+09:00:00.510 [main] DEBUG org.hibernate.SQL - insert into player (main, name, ranking, id) values (?, ?, ?, ?)
+09:00:00.510 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [Sheik]
+09:00:00.510 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [Plup]
+09:00:00.510 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [INTEGER] - [10]
+09:00:00.510 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [4] as [INTEGER] - [1]
+09:00:00.510 [main] DEBUG org.hibernate.SQL - insert into player (main, name, ranking, id) values (?, ?, ?, ?)
+09:00:00.510 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [Fox]
+09:00:00.510 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [IBDW]
+09:00:00.510 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [INTEGER] - [2]
+09:00:00.511 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [4] as [INTEGER] - [2]
+09:00:00.511 [main] DEBUG org.hibernate.SQL - update player set team_id=? where id=?
+09:00:00.512 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [1]
+09:00:00.512 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [INTEGER] - [1]
+09:00:00.512 [main] DEBUG org.hibernate.SQL - update player set team_id=? where id=?
+09:00:00.512 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [1]
+09:00:00.512 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [INTEGER] - [2]
+09:00:00.519 [main] DEBUG org.hibernate.SQL - select playerenti0_.id as id1_0_0_, playerenti0_.main as main2_0_0_, playerenti0_.name as name3_0_0_, playerenti0_.ranking as ranking4_0_0_ from player playerenti0_ where playerenti0_.id=?
+09:00:00.519 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [3]
+09:00:00.520 [main] DEBUG org.hibernate.SQL - select playerenti0_.id as id1_0_0_, playerenti0_.main as main2_0_0_, playerenti0_.name as name3_0_0_, playerenti0_.ranking as ranking4_0_0_ from player playerenti0_ where playerenti0_.id=?
+09:00:00.520 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [4]
+09:00:00.521 [main] DEBUG org.hibernate.SQL - select playerenti0_.id as id1_0_0_, playerenti0_.main as main2_0_0_, playerenti0_.name as name3_0_0_, playerenti0_.ranking as ranking4_0_0_ from player playerenti0_ where playerenti0_.id=?
+09:00:00.522 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [5]
+09:00:00.523 [main] DEBUG org.hibernate.SQL - select next_val as id_val from team_seq for update
+09:00:00.523 [main] DEBUG org.hibernate.SQL - update team_seq set next_val= ? where next_val=?
+09:00:00.527 [main] DEBUG org.hibernate.SQL - insert into team (initials, logo, name, id) values (?, ?, ?, ?)
+09:00:00.527 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [GG]
+09:00:00.527 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Goldenguardians_logo.svg/1200px-Goldenguardians_logo.svg.png]
+09:00:00.527 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [VARCHAR] - [Golden Guardian]
+09:00:00.527 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [4] as [INTEGER] - [2]
+09:00:00.528 [main] DEBUG org.hibernate.SQL - insert into player (main, name, ranking, id) values (?, ?, ?, ?)
+09:00:00.528 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [Marth]
+09:00:00.528 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [Zain]
+09:00:00.528 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [INTEGER] - [3]
+09:00:00.528 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [4] as [INTEGER] - [3]
+09:00:00.528 [main] DEBUG org.hibernate.SQL - insert into player (main, name, ranking, id) values (?, ?, ?, ?)
+09:00:00.528 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [Marth, Falco]
+09:00:00.528 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [PPMD]
+09:00:00.528 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [INTEGER] - [40]
+09:00:00.528 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [4] as [INTEGER] - [4]
+09:00:00.529 [main] DEBUG org.hibernate.SQL - insert into player (main, name, ranking, id) values (?, ?, ?, ?)
+09:00:00.529 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [Captain Falcon]
+09:00:00.529 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [n0ne]
+09:00:00.529 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [INTEGER] - [19]
+09:00:00.529 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [4] as [INTEGER] - [5]
+09:00:00.529 [main] DEBUG org.hibernate.SQL - update player set team_id=? where id=?
+09:00:00.529 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [2]
+09:00:00.529 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [INTEGER] - [3]
+09:00:00.530 [main] DEBUG org.hibernate.SQL - update player set team_id=? where id=?
+09:00:00.530 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [2]
+09:00:00.530 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [INTEGER] - [4]
+09:00:00.530 [main] DEBUG org.hibernate.SQL - update player set team_id=? where id=?
+09:00:00.530 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [2]
+09:00:00.530 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [INTEGER] - [5]
+09:00:00.534 [main] DEBUG org.hibernate.SQL - select playerenti0_.id as id1_0_0_, playerenti0_.main as main2_0_0_, playerenti0_.name as name3_0_0_, playerenti0_.ranking as ranking4_0_0_ from player playerenti0_ where playerenti0_.id=?
+09:00:00.534 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [6]
+09:00:00.535 [main] DEBUG org.hibernate.SQL - insert into team (initials, logo, name, id) values (?, ?, ?, ?)
+09:00:00.535 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [TSM]
+09:00:00.535 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/TSM_Logo.svg/302px-TSM_Logo.svg.png]
+09:00:00.535 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [VARCHAR] - [Team SoloMid]
+09:00:00.536 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [4] as [INTEGER] - [3]
+09:00:00.536 [main] DEBUG org.hibernate.SQL - insert into player (main, name, ranking, id) values (?, ?, ?, ?)
+09:00:00.536 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [Fox]
+09:00:00.536 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [Leffen]
+09:00:00.536 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [3] as [INTEGER] - [4]
+09:00:00.536 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [4] as [INTEGER] - [6]
+09:00:00.536 [main] DEBUG org.hibernate.SQL - update player set team_id=? where id=?
+09:00:00.536 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [3]
+09:00:00.536 [main] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [2] as [INTEGER] - [6]
+09:00:23.249 [http-nio-8080-exec-5] DEBUG org.hibernate.SQL - select teamentity0_.id as id1_1_, teamentity0_.initials as initials2_1_, teamentity0_.logo as logo3_1_, teamentity0_.name as name4_1_ from team teamentity0_
+09:00:23.251 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_1_] : [INTEGER]) - [1]
+09:00:23.253 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([initials2_1_] : [VARCHAR]) - [PG]
+09:00:23.253 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([logo3_1_] : [VARCHAR]) - [https://ssb.wiki.gallery/images/thumb/3/37/PandaHD.png/1200px-PandaHD.png]
+09:00:23.253 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name4_1_] : [VARCHAR]) - [Panda Global]
+09:00:23.253 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_1_] : [INTEGER]) - [2]
+09:00:23.253 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([initials2_1_] : [VARCHAR]) - [GG]
+09:00:23.253 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([logo3_1_] : [VARCHAR]) - [https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Goldenguardians_logo.svg/1200px-Goldenguardians_logo.svg.png]
+09:00:23.253 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name4_1_] : [VARCHAR]) - [Golden Guardian]
+09:00:23.253 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_1_] : [INTEGER]) - [3]
+09:00:23.253 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([initials2_1_] : [VARCHAR]) - [TSM]
+09:00:23.253 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([logo3_1_] : [VARCHAR]) - [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/TSM_Logo.svg/302px-TSM_Logo.svg.png]
+09:00:23.253 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name4_1_] : [VARCHAR]) - [Team SoloMid]
+09:00:23.255 [http-nio-8080-exec-5] TRACE org.hibernate.type.CollectionType - Created collection wrapper: [com.perficient.techbootcampnicholaschen.melee.entity.TeamEntity.playerList#1]
+09:00:23.255 [http-nio-8080-exec-5] TRACE org.hibernate.type.CollectionType - Created collection wrapper: [com.perficient.techbootcampnicholaschen.melee.entity.TeamEntity.playerList#2]
+09:00:23.255 [http-nio-8080-exec-5] TRACE org.hibernate.type.CollectionType - Created collection wrapper: [com.perficient.techbootcampnicholaschen.melee.entity.TeamEntity.playerList#3]
+09:00:23.259 [http-nio-8080-exec-5] DEBUG org.hibernate.SQL - select playerlist0_.team_id as team_id5_0_0_, playerlist0_.id as id1_0_0_, playerlist0_.id as id1_0_1_, playerlist0_.main as main2_0_1_, playerlist0_.name as name3_0_1_, playerlist0_.ranking as ranking4_0_1_ from player playerlist0_ where playerlist0_.team_id=?
+09:00:23.259 [http-nio-8080-exec-5] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [1]
+09:00:23.261 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [1]
+09:00:23.261 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Sheik]
+09:00:23.261 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [Plup]
+09:00:23.261 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [10]
+09:00:23.261 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [1]
+09:00:23.261 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [1]
+09:00:23.261 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [2]
+09:00:23.261 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Fox]
+09:00:23.261 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [IBDW]
+09:00:23.261 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [2]
+09:00:23.261 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [1]
+09:00:23.261 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [2]
+09:00:23.262 [http-nio-8080-exec-5] DEBUG org.hibernate.SQL - select playerlist0_.team_id as team_id5_0_0_, playerlist0_.id as id1_0_0_, playerlist0_.id as id1_0_1_, playerlist0_.main as main2_0_1_, playerlist0_.name as name3_0_1_, playerlist0_.ranking as ranking4_0_1_ from player playerlist0_ where playerlist0_.team_id=?
+09:00:23.262 [http-nio-8080-exec-5] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [2]
+09:00:23.262 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [3]
+09:00:23.262 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Marth]
+09:00:23.262 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [Zain]
+09:00:23.262 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [3]
+09:00:23.262 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [2]
+09:00:23.262 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [3]
+09:00:23.262 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [4]
+09:00:23.262 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Marth, Falco]
+09:00:23.262 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [PPMD]
+09:00:23.262 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [40]
+09:00:23.262 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [2]
+09:00:23.262 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [4]
+09:00:23.263 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [5]
+09:00:23.263 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Captain Falcon]
+09:00:23.263 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [n0ne]
+09:00:23.263 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [19]
+09:00:23.263 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [2]
+09:00:23.263 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [5]
+09:00:23.263 [http-nio-8080-exec-5] DEBUG org.hibernate.SQL - select playerlist0_.team_id as team_id5_0_0_, playerlist0_.id as id1_0_0_, playerlist0_.id as id1_0_1_, playerlist0_.main as main2_0_1_, playerlist0_.name as name3_0_1_, playerlist0_.ranking as ranking4_0_1_ from player playerlist0_ where playerlist0_.team_id=?
+09:00:23.263 [http-nio-8080-exec-5] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [3]
+09:00:23.264 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [6]
+09:00:23.264 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Fox]
+09:00:23.264 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [Leffen]
+09:00:23.264 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [4]
+09:00:23.264 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [3]
+09:00:23.264 [http-nio-8080-exec-5] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [6]
+09:18:36.656 [http-nio-8080-exec-9] DEBUG org.hibernate.SQL - select teamentity0_.id as id1_1_, teamentity0_.initials as initials2_1_, teamentity0_.logo as logo3_1_, teamentity0_.name as name4_1_ from team teamentity0_
+09:18:36.656 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_1_] : [INTEGER]) - [1]
+09:18:36.657 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([initials2_1_] : [VARCHAR]) - [PG]
+09:18:36.657 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([logo3_1_] : [VARCHAR]) - [https://ssb.wiki.gallery/images/thumb/3/37/PandaHD.png/1200px-PandaHD.png]
+09:18:36.657 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name4_1_] : [VARCHAR]) - [Panda Global]
+09:18:36.657 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_1_] : [INTEGER]) - [2]
+09:18:36.657 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([initials2_1_] : [VARCHAR]) - [GG]
+09:18:36.657 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([logo3_1_] : [VARCHAR]) - [https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Goldenguardians_logo.svg/1200px-Goldenguardians_logo.svg.png]
+09:18:36.657 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name4_1_] : [VARCHAR]) - [Golden Guardian]
+09:18:36.657 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_1_] : [INTEGER]) - [3]
+09:18:36.657 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([initials2_1_] : [VARCHAR]) - [TSM]
+09:18:36.657 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([logo3_1_] : [VARCHAR]) - [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/TSM_Logo.svg/302px-TSM_Logo.svg.png]
+09:18:36.657 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name4_1_] : [VARCHAR]) - [Team SoloMid]
+09:18:36.657 [http-nio-8080-exec-9] TRACE org.hibernate.type.CollectionType - Created collection wrapper: [com.perficient.techbootcampnicholaschen.melee.entity.TeamEntity.playerList#1]
+09:18:36.657 [http-nio-8080-exec-9] TRACE org.hibernate.type.CollectionType - Created collection wrapper: [com.perficient.techbootcampnicholaschen.melee.entity.TeamEntity.playerList#2]
+09:18:36.657 [http-nio-8080-exec-9] TRACE org.hibernate.type.CollectionType - Created collection wrapper: [com.perficient.techbootcampnicholaschen.melee.entity.TeamEntity.playerList#3]
+09:18:36.658 [http-nio-8080-exec-9] DEBUG org.hibernate.SQL - select playerlist0_.team_id as team_id5_0_0_, playerlist0_.id as id1_0_0_, playerlist0_.id as id1_0_1_, playerlist0_.main as main2_0_1_, playerlist0_.name as name3_0_1_, playerlist0_.ranking as ranking4_0_1_ from player playerlist0_ where playerlist0_.team_id=?
+09:18:36.658 [http-nio-8080-exec-9] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [1]
+09:18:36.658 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [1]
+09:18:36.658 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Sheik]
+09:18:36.658 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [Plup]
+09:18:36.658 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [10]
+09:18:36.658 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [1]
+09:18:36.658 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [1]
+09:18:36.658 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [2]
+09:18:36.658 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Fox]
+09:18:36.658 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [IBDW]
+09:18:36.658 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [2]
+09:18:36.658 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [1]
+09:18:36.658 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [2]
+09:18:36.659 [http-nio-8080-exec-9] DEBUG org.hibernate.SQL - select playerlist0_.team_id as team_id5_0_0_, playerlist0_.id as id1_0_0_, playerlist0_.id as id1_0_1_, playerlist0_.main as main2_0_1_, playerlist0_.name as name3_0_1_, playerlist0_.ranking as ranking4_0_1_ from player playerlist0_ where playerlist0_.team_id=?
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [2]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [3]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Marth]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [Zain]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [3]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [2]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [3]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [4]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Marth, Falco]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [PPMD]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [40]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [2]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [4]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [5]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Captain Falcon]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [n0ne]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [19]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [2]
+09:18:36.659 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [5]
+09:18:36.660 [http-nio-8080-exec-9] DEBUG org.hibernate.SQL - select playerlist0_.team_id as team_id5_0_0_, playerlist0_.id as id1_0_0_, playerlist0_.id as id1_0_1_, playerlist0_.main as main2_0_1_, playerlist0_.name as name3_0_1_, playerlist0_.ranking as ranking4_0_1_ from player playerlist0_ where playerlist0_.team_id=?
+09:18:36.660 [http-nio-8080-exec-9] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [3]
+09:18:36.660 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [6]
+09:18:36.660 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Fox]
+09:18:36.660 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [Leffen]
+09:18:36.660 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [4]
+09:18:36.660 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [3]
+09:18:36.660 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [6]
+09:19:18.388 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - select teamentity0_.id as id1_1_, teamentity0_.initials as initials2_1_, teamentity0_.logo as logo3_1_, teamentity0_.name as name4_1_ from team teamentity0_
+09:19:18.389 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_1_] : [INTEGER]) - [1]
+09:19:18.389 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([initials2_1_] : [VARCHAR]) - [PG]
+09:19:18.389 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([logo3_1_] : [VARCHAR]) - [https://ssb.wiki.gallery/images/thumb/3/37/PandaHD.png/1200px-PandaHD.png]
+09:19:18.389 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name4_1_] : [VARCHAR]) - [Panda Global]
+09:19:18.389 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_1_] : [INTEGER]) - [2]
+09:19:18.389 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([initials2_1_] : [VARCHAR]) - [GG]
+09:19:18.389 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([logo3_1_] : [VARCHAR]) - [https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Goldenguardians_logo.svg/1200px-Goldenguardians_logo.svg.png]
+09:19:18.389 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name4_1_] : [VARCHAR]) - [Golden Guardian]
+09:19:18.389 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_1_] : [INTEGER]) - [3]
+09:19:18.389 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([initials2_1_] : [VARCHAR]) - [TSM]
+09:19:18.389 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([logo3_1_] : [VARCHAR]) - [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/TSM_Logo.svg/302px-TSM_Logo.svg.png]
+09:19:18.389 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name4_1_] : [VARCHAR]) - [Team SoloMid]
+09:19:18.390 [http-nio-8080-exec-1] TRACE org.hibernate.type.CollectionType - Created collection wrapper: [com.perficient.techbootcampnicholaschen.melee.entity.TeamEntity.playerList#1]
+09:19:18.390 [http-nio-8080-exec-1] TRACE org.hibernate.type.CollectionType - Created collection wrapper: [com.perficient.techbootcampnicholaschen.melee.entity.TeamEntity.playerList#2]
+09:19:18.390 [http-nio-8080-exec-1] TRACE org.hibernate.type.CollectionType - Created collection wrapper: [com.perficient.techbootcampnicholaschen.melee.entity.TeamEntity.playerList#3]
+09:19:18.390 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - select playerlist0_.team_id as team_id5_0_0_, playerlist0_.id as id1_0_0_, playerlist0_.id as id1_0_1_, playerlist0_.main as main2_0_1_, playerlist0_.name as name3_0_1_, playerlist0_.ranking as ranking4_0_1_ from player playerlist0_ where playerlist0_.team_id=?
+09:19:18.390 [http-nio-8080-exec-1] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [1]
+09:19:18.391 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [1]
+09:19:18.391 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Sheik]
+09:19:18.391 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [Plup]
+09:19:18.391 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [10]
+09:19:18.391 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [1]
+09:19:18.391 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [1]
+09:19:18.391 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [2]
+09:19:18.391 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Fox]
+09:19:18.391 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [IBDW]
+09:19:18.391 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [2]
+09:19:18.391 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [1]
+09:19:18.391 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [2]
+09:19:18.391 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - select playerlist0_.team_id as team_id5_0_0_, playerlist0_.id as id1_0_0_, playerlist0_.id as id1_0_1_, playerlist0_.main as main2_0_1_, playerlist0_.name as name3_0_1_, playerlist0_.ranking as ranking4_0_1_ from player playerlist0_ where playerlist0_.team_id=?
+09:19:18.391 [http-nio-8080-exec-1] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [2]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [3]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Marth]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [Zain]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [3]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [2]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [3]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [4]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Marth, Falco]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [PPMD]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [40]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [2]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [4]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [5]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Captain Falcon]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [n0ne]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [19]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [2]
+09:19:18.392 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [5]
+09:19:18.392 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - select playerlist0_.team_id as team_id5_0_0_, playerlist0_.id as id1_0_0_, playerlist0_.id as id1_0_1_, playerlist0_.main as main2_0_1_, playerlist0_.name as name3_0_1_, playerlist0_.ranking as ranking4_0_1_ from player playerlist0_ where playerlist0_.team_id=?
+09:19:18.393 [http-nio-8080-exec-1] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [3]
+09:19:18.393 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [6]
+09:19:18.393 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Fox]
+09:19:18.393 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [Leffen]
+09:19:18.393 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [4]
+09:19:18.393 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [3]
+09:19:18.393 [http-nio-8080-exec-1] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [6]
+09:48:11.345 [http-nio-8080-exec-6] DEBUG org.hibernate.SQL - select teamentity0_.id as id1_1_, teamentity0_.initials as initials2_1_, teamentity0_.logo as logo3_1_, teamentity0_.name as name4_1_ from team teamentity0_
+09:48:11.346 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_1_] : [INTEGER]) - [1]
+09:48:11.346 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([initials2_1_] : [VARCHAR]) - [PG]
+09:48:11.346 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([logo3_1_] : [VARCHAR]) - [https://ssb.wiki.gallery/images/thumb/3/37/PandaHD.png/1200px-PandaHD.png]
+09:48:11.346 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name4_1_] : [VARCHAR]) - [Panda Global]
+09:48:11.346 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_1_] : [INTEGER]) - [2]
+09:48:11.346 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([initials2_1_] : [VARCHAR]) - [GG]
+09:48:11.346 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([logo3_1_] : [VARCHAR]) - [https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Goldenguardians_logo.svg/1200px-Goldenguardians_logo.svg.png]
+09:48:11.346 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name4_1_] : [VARCHAR]) - [Golden Guardian]
+09:48:11.346 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_1_] : [INTEGER]) - [3]
+09:48:11.346 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([initials2_1_] : [VARCHAR]) - [TSM]
+09:48:11.346 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([logo3_1_] : [VARCHAR]) - [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/TSM_Logo.svg/302px-TSM_Logo.svg.png]
+09:48:11.346 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name4_1_] : [VARCHAR]) - [Team SoloMid]
+09:48:11.346 [http-nio-8080-exec-6] TRACE org.hibernate.type.CollectionType - Created collection wrapper: [com.perficient.techbootcampnicholaschen.melee.entity.TeamEntity.playerList#1]
+09:48:11.346 [http-nio-8080-exec-6] TRACE org.hibernate.type.CollectionType - Created collection wrapper: [com.perficient.techbootcampnicholaschen.melee.entity.TeamEntity.playerList#2]
+09:48:11.346 [http-nio-8080-exec-6] TRACE org.hibernate.type.CollectionType - Created collection wrapper: [com.perficient.techbootcampnicholaschen.melee.entity.TeamEntity.playerList#3]
+09:48:11.347 [http-nio-8080-exec-6] DEBUG org.hibernate.SQL - select playerlist0_.team_id as team_id5_0_0_, playerlist0_.id as id1_0_0_, playerlist0_.id as id1_0_1_, playerlist0_.main as main2_0_1_, playerlist0_.name as name3_0_1_, playerlist0_.ranking as ranking4_0_1_ from player playerlist0_ where playerlist0_.team_id=?
+09:48:11.347 [http-nio-8080-exec-6] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [1]
+09:48:11.348 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [1]
+09:48:11.348 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Sheik]
+09:48:11.348 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [Plup]
+09:48:11.348 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [10]
+09:48:11.348 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [1]
+09:48:11.348 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [1]
+09:48:11.348 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [2]
+09:48:11.348 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Fox]
+09:48:11.348 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [IBDW]
+09:48:11.348 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [2]
+09:48:11.348 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [1]
+09:48:11.348 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [2]
+09:48:11.348 [http-nio-8080-exec-6] DEBUG org.hibernate.SQL - select playerlist0_.team_id as team_id5_0_0_, playerlist0_.id as id1_0_0_, playerlist0_.id as id1_0_1_, playerlist0_.main as main2_0_1_, playerlist0_.name as name3_0_1_, playerlist0_.ranking as ranking4_0_1_ from player playerlist0_ where playerlist0_.team_id=?
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [2]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [3]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Marth]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [Zain]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [3]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [2]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [3]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [4]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Marth, Falco]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [PPMD]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [40]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [2]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [4]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [5]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Captain Falcon]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [n0ne]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [19]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [2]
+09:48:11.349 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [5]
+09:48:11.350 [http-nio-8080-exec-6] DEBUG org.hibernate.SQL - select playerlist0_.team_id as team_id5_0_0_, playerlist0_.id as id1_0_0_, playerlist0_.id as id1_0_1_, playerlist0_.main as main2_0_1_, playerlist0_.name as name3_0_1_, playerlist0_.ranking as ranking4_0_1_ from player playerlist0_ where playerlist0_.team_id=?
+09:48:11.350 [http-nio-8080-exec-6] TRACE o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [INTEGER] - [3]
+09:48:11.350 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_1_] : [INTEGER]) - [6]
+09:48:11.350 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([main2_0_1_] : [VARCHAR]) - [Fox]
+09:48:11.350 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [Leffen]
+09:48:11.350 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([ranking4_0_1_] : [INTEGER]) - [4]
+09:48:11.350 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id5_0_0_] : [INTEGER]) - [3]
+09:48:11.350 [http-nio-8080-exec-6] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [6]
+11:54:30.415 [RMI TCP Connection(2)-127.0.0.1] DEBUG org.hibernate.SQL - alter table player drop foreign key FKdvd6ljes11r44igawmpm1mc5s
+11:54:30.426 [RMI TCP Connection(2)-127.0.0.1] DEBUG org.hibernate.SQL - drop table if exists play_seq
+11:54:30.442 [RMI TCP Connection(2)-127.0.0.1] DEBUG org.hibernate.SQL - drop table if exists player
+11:54:30.456 [RMI TCP Connection(2)-127.0.0.1] DEBUG org.hibernate.SQL - drop table if exists team
+11:54:30.470 [RMI TCP Connection(2)-127.0.0.1] DEBUG org.hibernate.SQL - drop table if exists team_seq
+11:54:30.486 [RMI TCP Connection(2)-127.0.0.1] TRACE o.h.type.spi.TypeConfiguration$Scope - Handling #sessionFactoryClosed from [org.hibernate.internal.SessionFactoryImpl@3f64d943] for TypeConfiguration
+11:54:30.486 [RMI TCP Connection(2)-127.0.0.1] DEBUG o.h.type.spi.TypeConfiguration$Scope - Un-scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration$Scope@6e1d6418] from SessionFactory [org.hibernate.internal.SessionFactoryImpl@3f64d943]

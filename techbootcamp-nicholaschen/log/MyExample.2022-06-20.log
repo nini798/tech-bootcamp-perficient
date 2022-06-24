@@ -983,3 +983,10 @@ Caused by: org.hibernate.AnnotationException: Use of @OneToMany or @ManyToMany t
 16:47:37.104 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([name3_0_1_] : [VARCHAR]) - [Esam]
 16:47:37.104 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([team_id4_0_0_] : [INTEGER]) - [1]
 16:47:37.104 [http-nio-8080-exec-9] TRACE o.h.t.descriptor.sql.BasicExtractor - extracted value ([id1_0_0_] : [INTEGER]) - [2]
+16:54:44.114 [RMI TCP Connection(30)-127.0.0.1] DEBUG org.hibernate.SQL - alter table player drop foreign key FKdvd6ljes11r44igawmpm1mc5s
+16:54:44.127 [RMI TCP Connection(30)-127.0.0.1] DEBUG org.hibernate.SQL - drop table if exists play_seq
+16:54:44.141 [RMI TCP Connection(30)-127.0.0.1] DEBUG org.hibernate.SQL - drop table if exists player
+16:54:44.156 [RMI TCP Connection(30)-127.0.0.1] DEBUG org.hibernate.SQL - drop table if exists team
+16:54:44.169 [RMI TCP Connection(30)-127.0.0.1] DEBUG org.hibernate.SQL - drop table if exists team_seq
+16:54:44.183 [RMI TCP Connection(30)-127.0.0.1] TRACE o.h.type.spi.TypeConfiguration$Scope - Handling #sessionFactoryClosed from [org.hibernate.internal.SessionFactoryImpl@1607d391] for TypeConfiguration
+16:54:44.183 [RMI TCP Connection(30)-127.0.0.1] DEBUG o.h.type.spi.TypeConfiguration$Scope - Un-scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration$Scope@20364dce] from SessionFactory [org.hibernate.internal.SessionFactoryImpl@1607d391]

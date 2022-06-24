@@ -1,0 +1,67 @@
+#teamCardArea {
+	margin-bottom: 10px;
+	height: 350px;
+	width: 100%;
+}
+
+button.teamCardButton, button.addTeamButton {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	height: 250px;
+	width: 250px;
+	padding: 10px 20px;
+	margin: 20px 10px;
+	float: left;
+	background-color: white;
+}
+
+button:hover, .teamCardButton.activated {
+	background-color: rgb(192, 192, 192);
+	transition: .4s;	
+}
+
+img.teamImg {
+	width: 80%;
+	height: 80%;
+	display: block;
+	margin:auto;
+	
+}
+
+hr {
+	clear: both;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+div.playerCard {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	height: 175px;
+	width: 150px;
+	padding: 20px 10px;
+	margin: 10px 10px;
+	float: left;
+}
+
+#backdrop {
+	position: fixed;
+	display: none;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.5);
+	z-index: 2;
+}
+
+#postArea {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	position: fixed;
+	display: none;
+	position: absolute;
+	margin-left: 400px;
+	margin-right: 400px;
+	padding: 20px;
+	background-color: white;
+	left: 0;
+	right: 0;
+	text-align: center;
+	z-index: 3;
+}
